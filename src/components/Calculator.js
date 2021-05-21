@@ -35,7 +35,7 @@ import React from 'react';
                     
                 </div>  
                 </form> 
-                <br/><br/><br/>
+                <br/><br/>
                 <h1>Addition:{this.state.firstnum}+{this.state.secandnum}={this.state.firstnum+this.state.secandnum}</h1>
                 <h1>Substraction:{this.state.firstnum}-{this.state.secandnum}={this.state.firstnum-this.state.secandnum}</h1>
                 <h1>Multiplication:{this.state.firstnum}*{this.state.secandnum}={this.state.firstnum*this.state.secandnum}</h1>
